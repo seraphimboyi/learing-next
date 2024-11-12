@@ -6,6 +6,7 @@ function DetailPage() {
 
   // send a request to the backend API
   // to fetch the news item with newsId
+  test
 
   return <h1>The Detail Page</h1>;
 }
